@@ -1,0 +1,10 @@
+singleton = factory method
+data class = class le data lai hold garne
+copywith() = euta variable ko value arko varaible ma copy garne // state management
+
+
+//const = compile time ma value assign garne
+//final = run time  
+
+
+either
